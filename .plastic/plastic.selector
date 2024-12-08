@@ -1,0 +1,3 @@
+repository "PCG@Nino185@cloud"
+  path "/"
+    smartbranch "/main/Vasu_Branch"
